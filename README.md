@@ -1,63 +1,66 @@
- <div align="center">
+ <!-- HEADER -->
+<div align="center">
+  
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
 
-# ✨ AMAZON CLONE 🛒  
-### *"Redefining Online Shopping — A Frontend Experience Built with HTML & CSS"*
+  <h1>🛒 E-Commerce Website</h1>
+  
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C6FF&center=true&vCenter=true&width=550&lines=Your+Ultimate+Online+Shopping+Destination;Crafted+with+HTML+%26+CSS+💻;Responsive%2C+Elegant%2C+Modern+✨" alt="Typing SVG" />
+  </p>
 
-<img src="https://i.imgur.com/Qs8GQkS.gif" width="850px" alt="Amazon Clone Preview">
+  <p align="center">
+    <img src="https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/Responsive-Design-brightgreen?style=flat-square" />
+    <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
+  </p>
 
----
-
-### 🔧 BUILT WITH PURE MAGIC (AND SOME CODE)
-<p>
-  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5">
-  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3">
-  <img src="https://img.shields.io/badge/RESPONSIVE-DESIGN-green?style=for-the-badge&logo=responsive">
-  <img src="https://img.shields.io/badge/PROJECT-STATUS-ACTIVE-yellow?style=for-the-badge">
-</p>
-
----
-
+  <img src="https://github.com/srivastavanandani190-lang/E-commerce-website/assets/preview.gif" alt="project-preview" width="75%"/>
 </div>
 
-## 🌈 Project Overview  
-Welcome to the **Amazon Clone**, a sleek, modern recreation of Amazon’s homepage UI —  
-crafted entirely with **HTML & CSS**, focusing on **responsive design**, **pixel-perfect structure**,  
-and **realistic e-commerce aesthetics** 💻  
+---
 
-> ✨ No frameworks. No libraries. Just pure creativity & clean code.  
+## 🌐 Overview
+
+Welcome to the **E-Commerce Website Project**, a stunning Amazon-inspired shopping platform.  
+This project is built entirely with **HTML5** and **CSS3**, focusing on *clean code*, *modern aesthetics*, and *responsive design principles*.  
+
+> 💡 *This isn’t just a UI — it’s a foundation for your future full-stack e-commerce system.*
 
 ---
 
-## 🎨 Key Features  
-
-🌟 **Amazon-like Header & Navigation** — Logo, Search Bar, Cart & Profile Icons  
-🛍️ **Interactive Product Cards** — Hover effects with shadows & transitions  
-📱 **Fully Responsive Layout** — Smooth resizing across devices  
-🎯 **Modern Flexbox + Grid Layouts** — Clean, modular, and readable  
-🌈 **Beautiful Footer Section** — Styled links and brand info  
-💫 **Realistic Look** — Every detail mimics the Amazon interface!
-
----
-
-## 🧠 Tech Stack  
-
-| Tech | Purpose |
-|------|----------|
-| 💻 **HTML5** | Page Structure |
-| 🎨 **CSS3** | Styling, Animations & Responsiveness |
-| 🧩 **Font Awesome** | Icons & UI Enhancement |
-| 🔤 **Google Fonts** | Beautiful Typography |
+## ✨ Features
+✅ Fully responsive design (mobile-first)  
+✅ Dynamic home & product layouts  
+✅ Hover transitions & interactive buttons  
+✅ Semantic, accessible, and SEO-friendly structure  
+✅ Elegant typography and color palette  
+✅ Ready for backend integration  
 
 ---
 
-## 🚀 Getting Started  
+## 🧱 Tech Stack
+| Technology | Description |
+|-------------|-------------|
+| 🧩 **HTML5** | Structured semantic markup |
+| 🎨 **CSS3** | Styling, animations, and layout design |
+| 📱 **Flexbox & Grid** | Responsive layouts |
+| 🖼️ **Custom Assets** | Product and banner visuals |
 
+---
+
+## 🗂 Folder Structure
 ```bash
-# Clone the repository
-git clone https://github.com/srivastavanandani190-lang/E-commerce-website.git
-
-# Navigate to folder
-cd E-commerce-website
-
-# Open the project
-Open index.html in your browser
+E-commerce-website/
+│
+├── index.html         # Home page
+├── product.html       # Product details
+├── cart.html          # Shopping cart layout
+├── css/
+│   └── style.css      # Main stylesheet
+├── images/
+│   ├── banner.jpg
+│   ├── product-1.png
+│   └── ...
+└── README.md
