@@ -1,35 +1,60 @@
-# 🛍️ E-Commerce Website
+ <h1 align="center">🛒 Amazon Clone – E-Commerce Website</h1>
 
-![GitHub repo size](https://img.shields.io/github/repo-size/srivastavanandani190-lang/E-commerce-website?color=blue)
-![GitHub stars](https://img.shields.io/github/stars/srivastavanandani190-lang/E-commerce-website?style=social)
-![GitHub forks](https://img.shields.io/github/forks/srivastavanandani190-lang/E-commerce-website?style=social)
-![GitHub license](https://img.shields.io/github/license/srivastavanandani190-lang/E-commerce-website?color=green)
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-5-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/CSS-3-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/STATUS-Active-green?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/srivastavanandani190-lang/E-commerce-website?style=social">
+</p>
 
-> ✨ A modern, fully responsive e-commerce website built with **HTML, CSS, JavaScript, React**, and **Node.js**, offering a seamless online shopping experience.  
-
----
-
-## 🚀 Features
-
-✅ **User Authentication** — Secure Login/Signup with validation  
-🛒 **Shopping Cart System** — Add, update, and remove items easily  
-💳 **Payment Integration** — Smooth checkout flow  
-🎁 **Product Management** — View, filter, and search products dynamically  
-⭐ **Customer Reviews & Ratings** — Engage users with interactive feedback  
-📱 **Responsive UI/UX** — Works perfectly on all devices  
-⚙️ **Admin Dashboard** — Manage products and orders efficiently  
+<p align="center">
+  <img src="https://i.imgur.com/1tP6K5X.gif" width="800px" alt="Amazon Clone Preview">
+</p>
 
 ---
 
-## 🎨 Tech Stack
+## 🌟 Overview  
+This project is a **fully responsive Amazon Clone** built using **pure HTML and CSS**.  
+It aims to recreate the **look and feel of Amazon’s interface** — including the header, product grid, navigation bar, and footer — while keeping the codebase simple, clean, and beginner-friendly.
 
-| Frontend | Backend | Database | Tools |
-|-----------|----------|-----------|--------|
-| React.js ⚛️ | Node.js 🌿 | MongoDB 🍃 | Git & GitHub 🧭 |
-| HTML5 🧱 | Express.js 🚀 | Mongoose 🧩 | VS Code 💻 |
-| CSS3 🎨 | RESTful APIs 🌐 |  |  |
+> ⚡ Designed to demonstrate modern web layout techniques using **Flexbox**, **Grid**, and **Media Queries**.
 
 ---
 
-## 🧭 Project Structure
+## 🖥️ Features  
+
+✨ **Fully Responsive Layout** – Works seamlessly across all screen sizes.  
+🛍️ **Homepage UI Clone** – Recreated Amazon’s homepage structure.  
+🎨 **Modern CSS Styling** – Smooth hover effects, shadows, and transitions.  
+📦 **Product Cards** – Realistic grid layout for displaying items.  
+🔍 **Navigation Bar** – Search box, cart icon, and sign-in area.  
+🌈 **Footer Section** – Replicates Amazon’s footer with links and branding.
+
+---
+
+## 🧱 Technologies Used  
+
+| Technology | Purpose |
+|-------------|----------|
+| **HTML5** | Structure & layout of web pages |
+| **CSS3** | Styling, responsiveness, animations |
+| **Font Awesome / Icons** | Adding UI icons |
+| **Google Fonts** | Typography styling |
+
+---
+
+## 🚀 How to Run Locally  
+
+```bash
+# Clone this repository
+git clone https://github.com/srivastavanandani190-lang/E-commerce-website.git
+
+# Navigate to the project folder
+cd E-commerce-website
+
+# Open the project
+Open index.html in your browser
+
+
+ 
 
