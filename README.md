@@ -1,4 +1,7 @@
-
+ <!-- HEADER -->
+<div align="center">
+  
+   
 
   <h1>🛒 E-Commerce Website</h1>
   
