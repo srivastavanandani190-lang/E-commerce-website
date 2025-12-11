@@ -4,8 +4,9 @@
  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Verdana&weight=700&size=24&pause=1000&duration=2500&color=00C6FF&center=true&vCenter=true&width=600&lines=Your+Ultimate+Online+Shopping+Destination;Crafted+with+HTML+%26+CSS;Responsive%2C+Elegant%2C+Modern" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&pause=900&duration=2600&color=FF6EC7&center=true&vCenter=true&width=700&lines=Your+Ultimate+Online+Shopping+Destination;Crafted+with+HTML+%26+CSS;Responsive+Elegant+Modern" />
 </p>
+
 
 
 
