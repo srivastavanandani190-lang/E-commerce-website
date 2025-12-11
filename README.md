@@ -9,11 +9,12 @@
 
 
 <p>
-<img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Responsive-Design-34D399?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Status-Completed-10B981?style=for-the-badge" />
+<img src="https://img.shields.io/badge/HTML5-FF5733?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1E90FF?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Responsive-Design-00E5FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-Completed-08F26E?style=for-the-badge" />
 </p>
+
 </div>
 <br/>
 
