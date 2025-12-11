@@ -9,14 +9,13 @@
 
 
 <p>
-<img src="https://img.shields.io/badge/HTML5-FF5733?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1E90FF?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Responsive-Design-00E5FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Status-Completed-08F26E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/HTML5-FF9A8B?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-A18CD1?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Responsive-Design-FBC2EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Completed-Status-FAD0C4?style=for-the-badge" />
 </p>
 
 </div>
-<br/>
 
 <img src="https://github.com/srivastavanandani190-lang/E-commerce-website/raw/main/assets/preview.gif" width="80%" alt="preview-gif"/>
 
