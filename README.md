@@ -7,13 +7,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Verdana&weight=700&size=24&pause=1000&duration=2500&color=00F9FF&center=true&vCenter=true&width=600&lines=Your+Ultimate+Online+Shopping+Destination;Crafted+with+HTML+%26+CSS;Responsive%2C+Elegant%2C+Modern" />
 </p>
 
-
 <p>
-<img src="https://img.shields.io/badge/HTML5-FF9A8B?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-A18CD1?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Responsive-Design-FBC2EB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Completed-Status-FAD0C4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/HTML5-FF0066?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-00C2FF?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Responsive-Design-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Completed-00FFB7?style=for-the-badge" />
 </p>
+
 
 </div>
 
