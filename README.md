@@ -4,8 +4,9 @@
  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=900&duration=2400&color=00F9FF&center=true&vCenter=true&width=650&lines=Your+Ultimate+Online+Shopping+Destination;Crafted+with+HTML+%26+CSS;Responsive+Elegant+Modern" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Verdana&weight=700&size=24&pause=1000&duration=2500&color=00F9FF&center=true&vCenter=true&width=600&lines=Your+Ultimate+Online+Shopping+Destination;Crafted+with+HTML+%26+CSS;Responsive%2C+Elegant%2C+Modern" />
 </p>
+
 
 <p>
 <img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -53,23 +54,5 @@ The **E-Commerce Website** is a clean, Amazon-inspired shopping UI built entirel
 | **Grid Layout** | Product & home page sections |
 | **Custom UI Assets** | Banners, product images |
 
----
 
-## 📁 Folder Structure
-
-```bash
-E-commerce-website/
-│
-├── index.html         # Homepage
-├── product.html       # Product details
-├── cart.html          # Cart UI
-├── css/
-│   └── style.css      # Main styling
-├── images/
-│   ├── banner.jpg
-│   ├── product-1.png
-│   └── ...
-└── README.md
-
-If you host on GitHub Pages:
-
+ 
