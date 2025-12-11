@@ -1,66 +1,74 @@
- <!-- HEADER -->
+<!-- HEADER -->
 <div align="center">
-  
-   
 
-  <h1>🛒 E-Commerce Website</h1>
-  
-  <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C6FF&center=true&vCenter=true&width=550&lines=Your+Ultimate+Online+Shopping+Destination;Crafted+with+HTML+%26+CSS+💻;Responsive%2C+Elegant%2C+Modern+✨" alt="Typing SVG" />
-  </p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=FF6EC7&center=true&vCenter=true&width=700&lines=🛒+E-Commerce+Website;Sleek+Modern+UI+Built+with+HTML+%2B+CSS;Responsive+Elegant+and+Fast+⚡" />
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/Responsive-Design-brightgreen?style=flat-square" />
-    <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
-  </p>
+<br/>
 
-  <img src="https://github.com/srivastavanandani190-lang/E-commerce-website/assets/preview.gif" alt="project-preview" width="75%"/>
+<p>
+<img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Responsive-Design-34D399?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-Completed-10B981?style=for-the-badge" />
+</p>
+
+<br/>
+
+<img src="https://github.com/srivastavanandani190-lang/E-commerce-website/raw/main/assets/preview.gif" width="80%" alt="preview-gif"/>
+
 </div>
 
 ---
 
 ## 🌐 Overview
 
-Welcome to the **E-Commerce Website Project**, a stunning Amazon-inspired shopping platform.  
-This project is built entirely with **HTML5** and **CSS3**, focusing on *clean code*, *modern aesthetics*, and *responsive design principles*.  
+The **E-Commerce Website** is a clean, Amazon-inspired shopping UI built entirely using  
+**HTML5 + CSS3**, with smooth animations, modern layout techniques, and responsive design.
 
-> 💡 *This isn’t just a UI — it’s a foundation for your future full-stack e-commerce system.*
+> 🛍️ *Think of it as your frontend base for future full-stack projects.*
 
 ---
 
 ## ✨ Features
-✅ Fully responsive design (mobile-first)  
-✅ Dynamic home & product layouts  
-✅ Hover transitions & interactive buttons  
-✅ Semantic, accessible, and SEO-friendly structure  
-✅ Elegant typography and color palette  
-✅ Ready for backend integration  
+
+- 🎯 Fully responsive (mobile-first design)  
+- 🧭 Clean navigation + polished UI  
+- 🎨 Smooth hover animations  
+- 📦 Product cards with modern styling  
+- ⚡ Lightweight, fast-loading pages  
+- 🔧 Easy to integrate with backend APIs
 
 ---
 
-## 🧱 Tech Stack
-| Technology | Description |
-|-------------|-------------|
-| 🧩 **HTML5** | Structured semantic markup |
-| 🎨 **CSS3** | Styling, animations, and layout design |
-| 📱 **Flexbox & Grid** | Responsive layouts |
-| 🖼️ **Custom Assets** | Product and banner visuals |
+---
+
+## 🛠 Tech Stack
+
+| Technology | Purpose |
+|-----------|----------|
+| **HTML5** | Structure & semantic markup |
+| **CSS3** | Styling, animations, layout |
+| **Flexbox** | Core layout system |
+| **Grid Layout** | Product & home page sections |
+| **Custom UI Assets** | Banners, product images |
 
 ---
 
-## 🗂 Folder Structure
+## 📁 Folder Structure
+
 ```bash
 E-commerce-website/
 │
-├── index.html         # Home page
+├── index.html         # Homepage
 ├── product.html       # Product details
-├── cart.html          # Shopping cart layout
+├── cart.html          # Cart UI
 ├── css/
-│   └── style.css      # Main stylesheet
+│   └── style.css      # Main styling
 ├── images/
 │   ├── banner.jpg
 │   ├── product-1.png
 │   └── ...
 └── README.md
+
+If you host on GitHub Pages:
+
