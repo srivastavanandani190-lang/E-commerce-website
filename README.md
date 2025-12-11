@@ -8,11 +8,12 @@
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/HTML5-FC5C65?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-45AAF2?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Responsive-Design-26DE81?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Completed-20BF6B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/HTML5-FF6EC7?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-F78DFF?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Responsive-Design-FFB3E6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Completed-FF85A1?style=for-the-badge" />
 </p>
+
 
 
 </div>
