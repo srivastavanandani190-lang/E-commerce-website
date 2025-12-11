@@ -1,9 +1,12 @@
 <!-- HEADER -->
 <div align="center">
   
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=2500&pause=900&color=FF3CAC&center=true&vCenter=true&width=800&height=80&lines=E-Commerce+Website+🛒;Sleek+Modern+UI+Built+Using+HTML+%2B+CSS;Responsive+Fast+and+Elegant+⚡" />
+ 
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=32&pause=1000&duration=2600&color=FF9A8B&center=true&vCenter=true&width=850&height=85&lines=E-Commerce+Website+🛒;Modern+Responsive+Shopping+UI;HTML+%2B+CSS+Frontend+Design+✨" />
+
+
+
 
 <p>
 <img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -11,7 +14,7 @@
 <img src="https://img.shields.io/badge/Responsive-Design-34D399?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Status-Completed-10B981?style=for-the-badge" />
 </p>
-
+</div>
 <br/>
 
 <img src="https://github.com/srivastavanandani190-lang/E-commerce-website/raw/main/assets/preview.gif" width="80%" alt="preview-gif"/>
