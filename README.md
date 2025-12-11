@@ -3,9 +3,9 @@
   
  
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=32&pause=1000&duration=2600&color=FF9A8B&center=true&vCenter=true&width=850&height=85&lines=E-Commerce+Website+🛒;Modern+Responsive+Shopping+UI;HTML+%2B+CSS+Frontend+Design+✨" />
-
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1000&duration=2600&color=00D1FF&center=true&vCenter=true&width=650&lines=Your+Ultimate+Online+Shopping+Destination;Crafted+With+HTML+%26+CSS+💻;Responsive%2C+Elegant%2C+Modern+✨" />
+</p>
 
 
 <p>
