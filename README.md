@@ -1,9 +1,9 @@
 <!-- HEADER -->
 <div align="center">
+  
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=2500&pause=900&color=FF3CAC&center=true&vCenter=true&width=800&height=80&lines=E-Commerce+Website+🛒;Sleek+Modern+UI+Built+Using+HTML+%2B+CSS;Responsive+Fast+and+Elegant+⚡" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=FF6EC7&center=true&vCenter=true&width=700&lines=🛒+E-Commerce+Website;Sleek+Modern+UI+Built+with+HTML+%2B+CSS;Responsive+Elegant+and+Fast+⚡" />
-
-<br/>
+</div>
 
 <p>
 <img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white" />
