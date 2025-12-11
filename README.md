@@ -4,11 +4,8 @@
  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&pause=900&duration=2600&color=FF6EC7&center=true&vCenter=true&width=700&lines=Your+Ultimate+Online+Shopping+Destination;Crafted+with+HTML+%26+CSS;Responsive+Elegant+Modern" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=900&duration=2400&color=00F9FF&center=true&vCenter=true&width=650&lines=Your+Ultimate+Online+Shopping+Destination;Crafted+with+HTML+%26+CSS;Responsive+Elegant+Modern" />
 </p>
-
-
-
 
 <p>
 <img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -23,7 +20,6 @@
 
 </div>
 
----
 
 ## 🌐 Overview
 
