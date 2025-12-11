@@ -8,10 +8,10 @@
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/HTML5-FF0066?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-00C2FF?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Responsive-Design-8A2BE2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Completed-00FFB7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/HTML5-FC5C65?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-45AAF2?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Responsive-Design-26DE81?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Completed-20BF6B?style=for-the-badge" />
 </p>
 
 
